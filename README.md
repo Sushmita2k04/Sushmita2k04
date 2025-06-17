@@ -1,3 +1,4 @@
+
 ---
 
 # Hi, I'm Sushmita Kumari Mahato 👋
@@ -13,7 +14,7 @@ I am passionate about solving real-world problems through data-driven insights a
 
 * 🔍 **Currently Exploring**: Advanced **Machine Learning** and **AI Model Deployment**
 * 🤝 **Open to Collaborations**: In **Data Science**, **Machine Learning**, and **Web Development** projects
-* 📫 **How to Reach Me**: [sushmita2k04@gmail.com](sushmita2k04@gmail.com)
+* 📫 **How to Reach Me**: [sushmita2k04@gmail.com](mailto:sushmita2k04@gmail.com)
 * 🌐 **Portfolio**: [Visit here](https://portfolio2-0-f7vh.onrender.com/)
 * 🔗 **LinkedIn**: [Sushmita Kumari Mahato](https://www.linkedin.com/in/sushmita-kumari-mahato-95589b252/)
 
@@ -36,13 +37,11 @@ I am passionate about solving real-world problems through data-driven insights a
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://github.com/Sushmita2k04/SalesAnalysis_Tableau/blob/main/tableau-icon-svgrepo-com.svg" height="40" alt="tableau" />
+  <img src="https://raw.githubusercontent.com/Sushmita2k04/SalesAnalysis_Tableau/main/tableau-icon-svgrepo-com.svg" height="40" alt="Tableau" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>  
@@ -58,4 +57,3 @@ I am passionate about solving real-world problems through data-driven insights a
 </div>  
 
 ---
-
