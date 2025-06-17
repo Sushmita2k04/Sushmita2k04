@@ -1,5 +1,3 @@
-To ensure the GitHub stats section matches the standard GitHub streak colors, you can use the `github` theme for GitHub stats and the GitHub streak stats service. Here's the updated README with the adjusted colors:
-
 ---
 
 # Hi, I'm Sushmita Kumari Mahato 👋
@@ -15,8 +13,8 @@ I am passionate about solving real-world problems through data-driven insights a
 
 * 🔍 **Currently Exploring**: Advanced **Machine Learning** and **AI Model Deployment**
 * 🤝 **Open to Collaborations**: In **Data Science**, **Machine Learning**, and **Web Development** projects
-* 📫 **How to Reach Me**: [sushmita.kumari.mahato@gmail.com](mailto:sushmita.kumari.mahato@gmail.com)
-* 🌐 **Portfolio**: [Visit here](#)
+* 📫 **How to Reach Me**: [sushmita2k04@gmail.com](sushmita2k04@gmail.com)
+* 🌐 **Portfolio**: [Visit here](https://portfolio2-0-f7vh.onrender.com/)
 * 🔗 **LinkedIn**: [Sushmita Kumari Mahato](https://www.linkedin.com/in/sushmita-kumari-mahato-95589b252/)
 
 ---
