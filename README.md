@@ -35,6 +35,8 @@ I am passionate about solving real-world problems through data-driven insights a
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="R" />
   <img width="12" />
   <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/Sushmita2k04/SalesAnalysis_Tableau/main/tableau-icon-svgrepo-com.svg" height="40" alt="Tableau" />
