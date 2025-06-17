@@ -1,76 +1,63 @@
-## Hi there 👋
+To ensure the GitHub stats section matches the standard GitHub streak colors, you can use the `github` theme for GitHub stats and the GitHub streak stats service. Here's the updated README with the adjusted colors:
 
-Welcome to my GitHub profile! I'm **Sushmita Kumari Mahato**, a B.Tech student specializing in **Data Science** at the MCKV Institute of Engineering, graduating in 2026.  
+---
 
-### About Me  
-- 🔭 I’m currently working on:  
-   - **World Population Analysis** as part of my Data Science Internship at Prodigy Infotech  
-   - Enhancing my skills in **Machine Learning** and **AI**  
+# Hi, I'm Sushmita Kumari Mahato 👋
 
-- 🌱 I’m currently learning:  
-   - **Computer Networks (CN)**  
-   - Advanced topics in **Machine Learning** and **Data Visualization**  
+**Aspiring Data Scientist | Lifelong Learner | Problem Solver**
 
-- 👯 I’m looking to collaborate on:  
-   - **Data Science Projects**  
-   - **Web Development Applications**  
+---
 
-- 🤔 I’m looking for help with:  
-   - Exploring opportunities in **Data Science Internships**  
-   - Building real-world **ML/AI models**  
+## 🌟 About Me
 
-- 💬 Ask me about:  
-   - **Data Science**, **Web Development**, and **Machine Learning**  
-   - How to organize creative events like **Dil-Wali-Diwali** or **Spooky Halloween** 🎉  
+I am Sushmita Kumari Mahato, a **B.Tech Computer Science and Engineering** student specializing in **Data Science** at **MCKV Institute of Engineering**.
+I am passionate about solving real-world problems through data-driven insights and building impactful solutions using modern technologies.
 
-- 📫 How to reach me:  
-   - [LinkedIn](https://www.linkedin.com/in/sushmita-kumari-mahato-95589b252/)  
-   - [GitHub](https://github.com/Sushmita2k04)  
+* 🔍 **Currently Exploring**: Advanced **Machine Learning** and **AI Model Deployment**
+* 🤝 **Open to Collaborations**: In **Data Science**, **Machine Learning**, and **Web Development** projects
+* 📫 **How to Reach Me**: [sushmita.kumari.mahato@gmail.com](mailto:sushmita.kumari.mahato@gmail.com)
+* 🌐 **Portfolio**: [Visit here](#)
+* 🔗 **LinkedIn**: [Sushmita Kumari Mahato](https://www.linkedin.com/in/sushmita-kumari-mahato-95589b252/)
 
-- ⚡ Fun fact:  
-   I’ve been teaching students for 3+ years and absolutely love creative problem-solving!  
+---
 
-### Tech Stack  
-- **Programming Languages:** Python, Java, C, SQL  
-- **Tools & Platforms:** Tableau, Power BI, Jupyter Notebook, AWS  
-- **Specializations:** Data Science, Machine Learning, Web Development  
+## 🛠️ Languages and Tools
 
-Feel free to explore my repositories and connect with me! 😊  
 <div align="left">
-  <!-- Core Data Science Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="R" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
-  <!-- Machine Learning and Cloud Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>  
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
+---
 
-  <!-- Programming and Supporting Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
- 
+## 📊 GitHub Stats
 
-  <!-- Presentation and Networking -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  
-</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushmita2k04&show_icons=true&theme=github" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sushmita2k04&theme=github&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmita2k04&layout=compact&theme=github" height="150" alt="Top Languages" />
+</div>  
+
+---
+
